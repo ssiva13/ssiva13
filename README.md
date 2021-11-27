@@ -5,7 +5,8 @@
 - Passionate about tech and crypto.
 - Find me hiking when am not coding, or just chilling at the beach.
 - Problem solver by nature.
-- **Fun Fact:** jhjjjj
+
+[comment]: <> (- **Fun Fact:** )
 
 ----------------------------------------------------------------------------------------
 
@@ -64,4 +65,10 @@ Github Stats             |  Top Languages
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Siva-blue?style=flat-square&logo=linkedIn&logoColor=white) | ![Twitter](https://img.shields.io/twitter/follow/_ssiva?label=Simon%20Siva&style=flat-square&logo=twitter&logoColor=white)
 
 ⭐️ From [Simon Siva](https://github.com/ssiva13)
-  
+
+
+<style>
+  td, th {
+     border: none!important;
+  }
+</style>
