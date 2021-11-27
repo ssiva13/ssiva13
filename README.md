@@ -53,4 +53,15 @@
   - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   &nbsp; ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm&logoColor=007ACC)
 
+
+
+Github Stats             |  Top Languages
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=ssiva13&theme=buefy&show_icons=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssiva13&theme=buefy&layout=compact)
+
+ 🤝🏻 &nbsp;Connect with Me &nbsp; | &nbsp;
+:-------------------------:|:-------------------------:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Siva-blue?style=flat-square&logo=linkedIn&logoColor=white) | ![Twitter](https://img.shields.io/twitter/follow/_ssiva?label=Simon%20Siva&style=flat-square&logo=twitter&logoColor=white)
+
+⭐️ From [Simon Siva](https://github.com/ssiva13)
   
