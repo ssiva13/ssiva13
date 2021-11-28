@@ -26,7 +26,8 @@
     &nbsp; ![Angular](https://img.shields.io/badge/-Angular%20Js-333333?style=flat&logo=angular)
     &nbsp; ![Laravel](https://img.shields.io/badge/-Larevel-333333?style=flat&logo=laravel)
     &nbsp; ![Yii](https://img.shields.io/badge/-Yii-333333?style=flat&logo=yii)
-    &nbsp; ![Flask](https://img.shields.io/badge/-Flask%20Js-333333?style=flat&logo=flask)
+    &nbsp; ![Flask](https://img.shields.io/badge/-Flask%20Python-333333?style=flat&logo=flask)
+    &nbsp; ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 
 
 - 🛢 &nbsp; Databases
