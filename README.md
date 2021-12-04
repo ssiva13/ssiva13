@@ -66,4 +66,4 @@ Github Stats             |  Top Languages      | Github Contribution
 :-------------------------:|:-------------------------:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Siva-blue?style=flat-square&logo=linkedIn&logoColor=white) | ![Twitter](https://img.shields.io/twitter/follow/_ssiva?label=Simon%20Siva&style=flat-square&logo=twitter&logoColor=white)
 
-⭐️ From [Simon Siva](https://github.com/ssiva13)
+⭐️ From [Simon Siva](https://ssiva13.github.io/)
