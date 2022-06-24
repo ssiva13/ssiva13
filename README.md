@@ -1,10 +1,16 @@
 ### Hi there 👋! I'm Simon Siva.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
+</p>
+
 ### 👨🏻‍💻  Mask Off 
 - The love of exploring unchattered territory and a bug hunter.
 - Passionate about tech and crypto.
 - Find me hiking when am not coding, or just chilling at the beach.
 - Problem solver by nature.
+- I’m looking to collaborate on open-source projects especially good first issues on Javascript, PHP, HTML5, CSS3, Bootstrap, Drupal Modules and Wordpress Plugins.
 
 [comment]: <> (- **Fun Fact:** )
 
