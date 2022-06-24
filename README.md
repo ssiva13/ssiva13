@@ -1,9 +1,6 @@
 ### Hi there 👋! I'm Simon Siva.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
-</p>
+
 
 ### 👨🏻‍💻  Mask Off 
 - The love of exploring unchattered territory and a bug hunter.
